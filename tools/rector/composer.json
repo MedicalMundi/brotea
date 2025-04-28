@@ -1,6 +1,6 @@
 {
     "require-dev": {
-        "rector/rector": "^2.0.11"
+        "rector/rector": "^2.0.14"
     },
     "config": {
         "preferred-install": {
